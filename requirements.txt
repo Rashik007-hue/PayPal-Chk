@@ -1,0 +1,5 @@
+fastapi
+requests
+urllib3
+faker
+pydantic
